@@ -1,5 +1,7 @@
 # Working with Kubernetes
 
+[Retour](./README.md)
+
 ## Introduction
 
 La pluspetite unité dans Kubernetes est un pod, une abstraction d'une charge de travail.
@@ -130,5 +132,7 @@ Créer un pod selon un fichier YAML (comme vue ci-haut)
 
     kubectl -f nomFichier.yaml
 
+## Working Objects
 
+Travailler juste avec des pods n'est pas assez flexible, par exemple, si un node échoue, le pod est perdu pour toujours. Pour être certain que nos pods roulent toujours, on va utiliser des controller objects, envoici une liste.
 
