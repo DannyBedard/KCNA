@@ -2,9 +2,10 @@
 
 Liens vers les chapitres
 
-- [Chapitre 2](./KCNA_Chap2.md)
-- [Chapitre 3](./KCNA_Chap3.md)
-- [Chapitre 4](./KCNA_Chap4.md)
-- [Chapitre 5](./KCNA_Chap5.md)
+- [Chapitre 2 - Cloud Native Architecture](./KCNA_Chap2.md)
+- [Chapitre 3 - Container Orchestration](./KCNA_Chap3.md)
+- [Chapitre 4 - Kubernetes fundamentals](./KCNA_Chap4.md)
+- [Chapitre 5 - Working with Kubernetes](./KCNA_Chap5.md)
+- [Chapitre 6 - Cloud Native Application Delivery](./KCNA_Chap6.md)
 
 [Liens vers github page](https://dannybedard.github.io/KCNA/)

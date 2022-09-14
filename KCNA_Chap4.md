@@ -1,4 +1,4 @@
-# KUBERNETES FUNDAMENTALS
+# Kubernetes fundamentals
 
 [Retour](./README.md)
 
