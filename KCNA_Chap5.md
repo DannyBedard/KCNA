@@ -134,5 +134,20 @@ Créer un pod selon un fichier YAML (comme vue ci-haut)
 
 ## Working Objects
 
-Travailler juste avec des pods n'est pas assez flexible, par exemple, si un node échoue, le pod est perdu pour toujours. Pour être certain que nos pods roulent toujours, on va utiliser des controller objects, envoici une liste.
+Travailler juste avec des pods n'est pas assez flexible, par exemple, si un node échoue, le pod est perdu pour toujours. Pour être certain que nos pods roulent toujours, on va utiliser des controller objects, envoici une liste:
+
+- ReplicaSet : S'assure qu'un certain nombre de pod roule. Peut être utilisé pour faire de la mise à l'échelle
+- Deployment :  Peut gérer plusieurs ReplicaSet pour décrire l'entiereté du cycle de vie de l'application. Mets le tout à jours lorsqu'il y a une nouvelle image.
+- StatefulSet : Utiliser pour rouler des application avec un état comme des BD. Ces applications ne se marient pas bien la nature courte des pods et des conteneurs. Il essaie également de retenir les adresse IP des pods et de leur garder le même nom/stockage.
+- DaemonSet : S'assure qu'une copie d'un Pod roule sur les nodes désirés, comme des outils du monitoring ou des logs.
+- Job : Créer un/plusieurs pods, exécute la tâche et se termine, bon pour les courts script
+- CronJob : Pareil comme Job, mais périodiquement
+
+### Demo Workload Objects
+
+Kubeview : Bel outil pour visualiser ce qui se passe dans le cluster
+
+Pour scaler, ajouter 10 copies
+
+    kubectl scale --replicas=10 rs/nginx
 
