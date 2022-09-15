@@ -101,4 +101,4 @@ Le scheduler va trouver un node qui remplit les conditions
 
 ## Additional Resources
 
-https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/kubernetes-fundamentals/kubernetes-fundamentals?page=8
+[Cliquez ici](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/kubernetes-fundamentals/kubernetes-fundamentals?page=8)

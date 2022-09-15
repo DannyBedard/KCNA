@@ -27,4 +27,4 @@ ArgoCD est pull based
 
 ## Additional Resources
 
-https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/cloud-native-application-delivery/cloud-native-application-delivery?page=4
+[Cliquez ici](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/cloud-native-application-delivery/cloud-native-application-delivery?page=4)

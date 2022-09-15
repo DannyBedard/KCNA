@@ -88,5 +88,5 @@ Une image est en lecture seule, elle peut avoir une couche de lecture/écriture 
 
  ## Pour en savoir plus
 
- https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/container-orchestration/container-orchestration?page=13
+ [Cliquez ici](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/container-orchestration/container-orchestration?page=13)
  

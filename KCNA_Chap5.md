@@ -329,4 +329,5 @@ HPA demande un partie tierce pour pouvoir fonctionner : [metrics-server](https:/
 [Prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) est un outil qui aide à scaler avec des métriques personnalisées.
 
 ## Additional Resources
-https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/working-with-kubernetes/working-with-kubernetes?page=13
+
+[Cliquez ici](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/working-with-kubernetes/working-with-kubernetes?page=13)

@@ -61,6 +61,6 @@ Donne des spécifications pour les images docker, comment ils vont être build e
 
 ## Liens pour en savoir plus
 
-https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/cloud-native-architecture/cloud-native-architecture?page=8
+[Cliquez ici](https://trainingportal.linuxfoundation.org/learn/course/kubernetes-and-cloud-native-essentials-lfs250/cloud-native-architecture/cloud-native-architecture?page=8)
 
 
