@@ -45,5 +45,16 @@ C'est un cadriciel écrit en Go qui sert à configurer les ressources réseaux. 
 
 ## Service Mesh
 
-C'est une façon de contrôler la manière que différents micro-services d'une application partagent des données entre eux. Il est créé directement dans l'application. Pour satisfaire un à la demande d'un utilisateur, plusieurs services peuvent être demandé en même temps et vont être dépendant l'un de l'autre pour acheminer le résultat. Le service mesh va acheminer les demandes d'un service au suivant de manière à optimiser le tout.
+C'est une façon de contrôler la manière que différents micro-services d'une application partagent des données entre eux. Il est créé directement dans l'application. Pour satisfaire un à la demande d'un utilisateur, plusieurs services peuvent être demandé en même temps et vont être dépendant l'un de l'autre pour acheminer le résultat. Le service mesh va acheminer les demandes d'un service au suivant de manière à optimiser le tout. Ces deux principales composantes sont le control plane et le data plane.
 
+## RBAC (Role based access control)
+
+Il est responsable des autorisations et décide ce que le demandeur peut avoir accès.
+
+## Container Orchestrator Systems
+
+Sert à automatiser les déploiement, la gestion et la mise à l'échelle de containers. Exemple :
+
+- Kubernetes
+- Apache Mesos
+- Docker Swarm
