@@ -45,7 +45,7 @@ On peut définir un maximum et un minimum pour la mise à l'échelle en fonction
 
 ### Horizontale
 
-On ajoute une instance de plus, que ce soit une VM un serveur physique ou autre.
+On ajoute une instance de plus, que ce soit une VM un serveur physique ou autre. C'est le plus populaire.
 
 ### Verticale
 
