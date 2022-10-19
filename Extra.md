@@ -49,7 +49,7 @@ C'est une façon de contrôler la manière que différents micro-services d'une 
 
 ## RBAC (Role based access control)
 
-Il est responsable des autorisations et décide ce que le demandeur peut avoir accès.
+Il est responsable des autorisations et décide ce que le demandeur peut avoir accès dans les ressources.
 
 ## Container Orchestrator Systems
 

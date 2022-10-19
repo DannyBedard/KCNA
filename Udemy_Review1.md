@@ -16,7 +16,7 @@ Il doit maintenir un certain nombre stable de replica pods qui roule toujours. I
 
 ## Deamonset
 
-Il s'assure que certains ou tous les nodes roulent une copie d'un pod. Si on détruit le DeamonSet, il va détruire les copies qu'il a créé.
+Il s'assure que certains ou tous (Ou presque) les nodes roulent une copie d'un pod. Si on détruit le DeamonSet, il va détruire les copies qu'il a créé.
 
 ## Cronjob
 
@@ -79,5 +79,36 @@ cgroup permet de limiter les ressources, choisir les proritées et qui a contrô
 
 Run, build and distribute containers
 
+## Taches Site Reiliability Engineer
 
+- Service Level Agreements 'SLA'
+- Service Level Objectives 'SLO'
+- Service Level Indicator 'SLI'
 
+## Kubernetes dashboard
+
+- Managing running applications
+- Troubleshooting any issues withn applications
+- Managing the entire Kubernetes cluster
+- NOT Installing new Kubernetes cluster
+
+## Kubernetes Services
+
+- ClusterIP
+- NodePort
+- LoadBalancer
+- ExternalName
+- NOT Ingre
+
+## Required Fields in K8s Objects
+
+- spec
+- kind
+- apiVersion
+- metadata
+
+Container Orchestrator Systems (COS)
+
+- Kubernetes
+- Apache Mesos
+- Docker Swarm
