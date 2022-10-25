@@ -9,6 +9,7 @@ Liens vers les chapitres
 - [Chapitre 6 - Cloud Native Application Delivery](./KCNA_Chap6.md)
 - [Chapitre 7 - Cloud Native Architecture](./KCNA_Chap7.md)
 - [Extra](./Extra.md)
-- [Udemy Review](./Udemy_Review1.md)
+- [Udemy Review 1](./Udemy_Review1.md)
+- [Udemy Review 2](./Udemy_Review2.md)
 
 [Liens vers github page](https://dannybedard.github.io/KCNA/)
