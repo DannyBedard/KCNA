@@ -70,7 +70,7 @@ Majeur.Mineur.Patch
 
 - Kubernetes Operations (kops)
 
-- Online Policy Audit (OPA)
+- Open Policy Agent (OPA)
 
 - Un workload est une application qui roule sur Kubernetes
 
