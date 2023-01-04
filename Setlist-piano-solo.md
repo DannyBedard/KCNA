@@ -1,0 +1,53 @@
+# Répertoire piano solo
+
+- Pathétique part 2 - Beethoven
+- Waltz in A minor - Chopin
+- Hallelujah
+- Image - John Lenon
+- Menuet en Sol - Bach
+- Prelude in C - Bach
+- Amazing Grace
+- In the hall of the mountain king
+- Sounds of silence
+- Chandelier
+- Believer
+- Say Something
+- Nothing else matters
+- Seven years
+- Terre désolée
+- La plus belle
+- Soleil
+- The end of your journey
+- Gymnoparue
+- Tango in Dm
+- Peace in C#
+- Canon in D
+- Nocturne in Eb
+- Faded
+- Moi-léger
+- The scientist
+- Misty
+- Blue in Green
+- Take five
+- Blue bossa
+- Musette
+- Gymnopedie
+- Fur Elise
+- Prelude in Em
+- Exogenesis part 3
+- River flows in you
+- Sweet child O'mine
+- Accross the star
+- Cantaloup Island
+- Oakvale
+- Morrowind
+- Blue Rondo ala turk
+- Rondo ala turca
+- Armandhos's rhumba
+- Piece of cake
+- Game of throne
+- In the mood
+- Light of the seven
+- Clocks
+- Lord of the ring
+- Bohemian Rhapsody

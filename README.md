@@ -11,5 +11,6 @@ Liens vers les chapitres
 - [Extra](./Extra.md)
 - [Udemy Review 1](./Udemy_Review1.md)
 - [Udemy Review 2](./Udemy_Review2.md)
+- [Répertoire piano solo](./Setlist-piano-solo.md)
 
 [Liens vers github page](https://dannybedard.github.io/KCNA/)
