@@ -1,53 +1,151 @@
 # Répertoire piano solo
 
-- Pathétique part 2 - Beethoven
-- Waltz in A minor - Chopin
-- Hallelujah
-- Image - John Lenon
-- Menuet en Sol - Bach
-- Prelude in C - Bach
-- Amazing Grace
-- In the hall of the mountain king
-- Sounds of silence
-- Chandelier
-- Believer
-- Say Something
-- Nothing else matters
-- Seven years
-- Terre désolée
-- La plus belle
-- Soleil
-- The end of your journey
-- Gymnoparue
-- Tango in Dm
-- Peace in C#
-- Canon in D
-- Nocturne in Eb
-- Faded
-- Moi-léger
-- The scientist
-- Misty
-- Blue in Green
-- Take five
-- Blue bossa
-- Musette
-- Gymnopedie
-- Fur Elise
-- Prelude in Em
-- Exogenesis part 3
-- River flows in you
-- Sweet child O'mine
-- Accross the star
-- Cantaloup Island
-- Oakvale
-- Morrowind
-- Blue Rondo ala turk
-- Rondo ala turca
-- Armandhos's rhumba
-- Piece of cake
-- Game of throne
-- In the mood
-- Light of the seven
-- Clocks
-- Lord of the ring
-- Bohemian Rhapsody
+- Hallelujah - C
+- Image - C
+- Prelude in C - C
+- Terre désolée - Cm
+- Blue bossa - Cm
+- Morrowind - Cm
+- Armandhos's rhumba - Cm
+- Wellerman
+- Game of throne - Cm
+- Light of the seven - Cm
+- Peace in C# - C#
+- Say Something - D
+- Canon in D - D
+- Musette - D
+- Sweet child O'mine - D
+- Lord of the ring - D
+- In the hall of the mountain king - Dm
+- Sounds of silence - Dm
+- Tango in Dm - Dm
+- The scientist - Dm
+- Accross the star - Dm
+- Nocturne in Eb - Eb
+- Misty - Eb
+- Clocks - Eb
+- Faded - Ebm
+- Take five - Ebm
+- Nothing else matters - Em
+- Prelude in Em - Em
+- Amazing Grace - F
+- Blue Rondo ala turk - F
+- Cantaloup Island - Fm
+- Green onions - Fm
+- Piece of cake - Fm
+- Moi-léger - F#
+- River flows in you - F#m
+- Menuet en Sol - G
+- Gymnoparue - G
+- Gymnopedie - G
+- Exogenesis part 3 - G
+- Seven years - Gm
+- The end of your journey - Gm
+- Blue in Green - Gm
+- Pathétique part 2 - Ab
+- In the mood - Ab
+- Waltz in A minor - Am
+- Chandelier - Am
+- Believer - Am
+- La plus belle - Am
+- Fur Elise - Am
+- Rondo ala turca - A
+- Bohemian Rhapsody - Bb
+- Soleil - B
+- Oakvale - Bm
+
+
+## C
+- Hallelujah - C
+- Image - C
+- Prelude in C - C
+
+## Cm
+- Terre désolée - Cm
+- Blue bossa - Cm
+- Morrowind - Cm
+- Armandhos's rhumba - Cm
+- Wellerman
+- Game of throne - Cm
+- Light of the seven - Cm
+
+## C#
+- Peace in C# - C#
+
+## D
+- Say Something - D
+- Canon in D - D
+- Musette - D
+- Sweet child O'mine - D
+- Lord of the ring - D
+
+## Dm
+- In the hall of the mountain king - Dm
+- Sounds of silence - Dm
+- Tango in Dm - Dm
+- The scientist - Dm
+- Accross the star - Dm
+
+## Eb
+- Nocturne in Eb - Eb
+- Misty - Eb
+- Clocks - Eb
+
+## Ebm
+- Faded - Ebm
+- Take five - Ebm
+
+## E
+
+## Em
+- Nothing else matters - Em
+- Prelude in Em - Em
+
+## F
+- Amazing Grace - F
+- Blue Rondo ala turk - F
+
+## Fm
+- Cantaloup Island - Fm
+- Green onions - Fm
+- Piece of cake - Fm
+
+## F#
+- Moi-léger - F#
+
+## F#m
+- River flows in you - F#m
+
+## G
+- Menuet en Sol - G
+- Gymnoparue - G
+- Gymnopedie - G
+- Exogenesis part 3 - G
+
+## Gm
+- Seven years - Gm
+- The end of your journey - Gm
+- Blue in Green - Gm
+
+## Ab
+- Pathétique part 2 - Ab
+- In the mood - Ab
+
+## Am
+- Waltz in A minor - Am
+- Chandelier - Am
+- Believer - Am
+- La plus belle - Am
+- Fur Elise - Am
+
+## A
+- Rondo ala turca - A
+
+## Bb
+- Bohemian Rhapsody - Bb
+
+## B
+- Soleil - B
+
+## Bm
+- Oakvale - Bm
