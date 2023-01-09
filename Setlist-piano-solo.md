@@ -28,6 +28,7 @@
 - Take five
 - Nothing else matters
 - Prelude in Em
+- Greensleeve
 - Amazing Grace
 - Blue Rondo ala turk
 - Cantaloup Island
@@ -48,6 +49,7 @@
 - Chandelier
 - Believer
 - La plus belle
+- Autumn Leaves
 - Fur Elise
 - Rondo ala turca
 - Bohemian Rhapsody
@@ -69,6 +71,7 @@
 - Canon in D
 - Musette
 - Prelude in C
+- Greensleeve
 
 ## Jeux/Film/Série
 - Oakvale
@@ -89,6 +92,7 @@
 - Misty
 - Armandhos's rhumba
 - Blue bossa
+- Autumn Leaves
 
 ## Composition
 - Soleil
@@ -161,11 +165,10 @@
 - Faded - Ebm
 - Take five - Ebm
 
-## E
-
 ## Em
 - Nothing else matters - Em
 - Prelude in Em - Em
+- Greensleeve
 
 ## F
 - Amazing Grace - F
@@ -203,6 +206,7 @@
 - Believer - Am
 - La plus belle - Am
 - Fur Elise - Am
+- Autumn Leaves
 
 ## A
 - Rondo ala turca - A
