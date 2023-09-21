@@ -25,16 +25,22 @@
 21. Proud mary
 22. I shot the sheriff
 23. Bad moon rising
+24. Iris
+25. Wonderful tonight
+26. Layla
+27. Take on me
+28. Aimé d’amour
+29. Folsom prison
+30. Creep
+31. Moisi moé si
+32. Interstate love song
+33. Give a little bit
+34. Sweet dream/Seven nation army
+35. Have you ever seen the rain
+36. This love
+37. Blues suede shoes
 
-## Pas fait
-
-- Sweet dream
-- Seven nation army
-- Another brick in the wall
-- Have you ever seen the rain
-- This love
-- Accross the universe
-- Blues suede shoes
+# Trie à revoir
 
 ## Québecois
 
